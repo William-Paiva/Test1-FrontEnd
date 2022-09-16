@@ -1,0 +1,23 @@
+
+h1{
+    text-align: center;
+}
+h2{
+    margin-left: 1%;
+}
+.fl{
+    float: left;
+}
+th{
+    text-align: left;
+}
+body{
+    
+    border: 1px solid black;
+}
+.table-settings{
+    border: 1px solid black;
+    display: block;
+    width: 98%;
+    margin: 1%;
+}
